@@ -1,1 +1,2 @@
-# chart-in-react
+# reactchartproject
+React JS Chart using Recharts
